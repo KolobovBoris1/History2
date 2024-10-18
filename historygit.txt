@@ -151,3 +151,93 @@
   151  git add history > history.txt
   152  git add ~/test/history.txt
   153  history > ~/test/History2/historygit.txt
+  154  git add historygit.txt
+  155  git commit -m "Новый файл: historygit"
+  156  git push origin main
+  157  history > ~/test/History2/historygit.txt
+  158  nano historygit.txt
+  159  pwd
+  160  cd
+  161  more cd
+  162  more pwd
+  163  more test
+  164  ls
+  165  cd snap
+  166  ls
+  167  cd
+  168  cd test
+  169  ls
+  170  nano disk.sh
+  171  nano disc.sh
+  172  rm disc.sh
+  173  ls
+  174  nano disk.sh
+  175  bash disk.sh
+  176  ls
+  177  cd-
+  178  cd -
+  179  ls
+  180  cd test
+  181  ls
+  182  sudo nano /etc/systemd/system/myscript.service
+  183  pwd
+  184  sudo nano /etc/systemd/system/myscript.service
+  185  sudo systemctl daemon-reload
+  186  sudo systemctl enable myscript.service
+  187  sudo systemctl start myscript.service
+  188  sudo nano /etc/systemd/system/myscript.service
+  189  sudo systemctl start myscript.service
+  190  sudo systemctl daemon-reload
+  191  sudo systemctl enable myscript.service
+  192  sudo systemctl start myscript.service
+  193  sudo nano /etc/systemd/system/myscript.service
+  194  pwd
+  195  sudo nano /etc/systemd/system/myscript.service
+  196  sudo systemctl daemon-reload
+  197  sudo systemctl start myscript.service
+  198  history > ~/test/History2/historygit.txt
+  199  myscript.service > ~/test/History2/script.txt 
+  200  sudo nano /etc/systemd/system/myscript.service
+  201  chmod +x /home/gutteridge/test/disk.sh
+  202  sudo systemctl start myscript.service
+  203  sudo nano /etc/systemd/system/myscript.service
+  204  cd ~/etc/systemd/system
+  205  sudo systemctl start myscript.service
+  206  cp /etc/systemd/system/myscript.service /test/History2/script.txt
+  207  cd History2
+  208  touch script.txt
+  209  ls
+  210  cd -
+  211  cp /etc/systemd/system/myscript.service /test/History2/script.txt
+  212  cp /etc/systemd/system/myscript.service script.txt
+  213  /etc/systemd/system/script.txt > ~/test/History2/
+  214  /etc/systemd/system/script.txt > ~/test/History2/script.txt
+  215  ~/etc/systemd/system/script.txt > ~/test/History2/script.txt
+  216  sudo systemctl start myscript.service
+  217  sudo nano /etc/systemd/system/myscript.service
+  218  sudo systemctl start myscript.service
+  219  sudo systemctl daemon-reload
+  220  sudo systemctl enable myscript.service
+  221  sudo nano /etc/systemd/system/myscript.service
+  222  sudo systemctl start myscript.service
+  223  sudo nano /etc/systemd/system/myscript.service
+  224  sudo systemctl daemon-reload
+  225  sudo systemctl start myscript.service
+  226  cd test
+  227  ls
+  228  nano disk.sh
+  229  bash disk.sh
+  230  pwd
+  231  sudo nano /etc/systemd/system/myscript.service
+  232  sudo systemctl daemon-reload
+  233  sudo systemctl start myscript.service
+  234  crontab -e
+  235  crontab -e 4
+  236  crontab -e
+  237  sudo su
+  238  ls
+  239  test
+  240  cd test
+  241  ls
+  242  history
+  243  history > ~/test/History2/historygit.txt
