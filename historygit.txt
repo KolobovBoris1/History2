@@ -1,0 +1,153 @@
+    1  pwd
+    2  mkdir test
+    3  pwd
+    4  cd test
+    5  pwd
+    6  who
+    7  cd -
+    8  who
+    9  cd test
+   10  man bash
+   11  touch hello.sh
+   12  nano hello.sh
+   13  # which bash
+   14  #!/bin/bash
+   15  # bash hello.sh
+   16  cd -
+   17  # bash hello.sh
+   18  cd test
+   19  bash hello.sh
+   20  nano hello.sh
+   21  bash hello.sh
+   22  touch disc.sh
+   23  nano disk.sh
+   24  bash disk.sh
+   25  nano disk.sh
+   26  bash disk.sh
+   27  nano disk.sh
+   28  bash disk.sh
+   29  nano disk.sh
+   30  bash disk.sh
+   31  nano disk.sh
+   32  bash disk.sh
+   33  nano disk.sh
+   34  bash disk.sh
+   35  nano disk.sh
+   36  bash disk.sh
+   37  nano disk.sh
+   38  bash disk.sh
+   39  nano disk.sh
+   40  git --version
+   41  sudo apt update
+   42  sudo apt install git
+   43  sudo systemctl edit --force --full script.service
+   44  sudo systemctl enable script
+   45  git config --global user.name [KolobovBoris1]
+   46  git config --global user.email [kolobovboris1@gmail.com]
+   47  git config --list
+   48  mkdir -p ~/git/dev
+   49  cd dev
+   50  cd ~/git/dev
+   51  cd -
+   52  cd git
+   53  cd ~/git
+   54  mkdir -p ~/git/main
+   55  cd ~/git/main
+   56  touch  file
+   57  nano file
+   58  rm file
+   59  history > ~/git/main/history.txt
+   60  nano history.txt
+   61  git init -b main
+   62  git add history.txt
+   63  git commit -m "History of command"
+   64  gh repo create
+   65  sudo snap install gh
+   66  gh repo create
+   67  gh auth login
+   68  git remote add origin https://github.com/KolobovBoris1/History.git
+   69  git remote -v
+   70  git push origin main
+   71  git init
+   72  git init -b main
+   73  history > ~/git/main/.git/history.txt
+   74  git add .
+   75  git commit -m "History"
+   76  cd ~git/main/.git
+   77  cd ~git/main/ .git
+   78  git add history.txt
+   79  git commit -m "History"
+   80  git add ~/git/main/history.txt
+   81  git commit -m "History"
+   82  nano history.txt
+   83  git add ~/git/main/history.txt
+   84  git commit -m "History"
+   85  git init -b main
+   86  nano history.txt
+   87  git add history.txt
+   88  git commit "History"
+   89  rm git
+   90  rm -r git
+   91  rm main
+   92  cd -
+   93  cd ~user
+   94  cd
+   95  rm git
+   96  rm -r git
+   97  rmdir git
+   98  rmdir -rf git
+   99  rmd -rf git
+  100  rm -rf git
+  101  cd test
+  102  git init
+  103  git config
+  104  sudo apt install git
+  105  git config
+  106  git config -- global user.name "KolobovBoris1"
+  107  git config --global user.name "KolobovBoris1"
+  108  git config --global user.email "kolobovboris1@gmail.com@
+  109  git init
+  110  cd -
+  111  cd test
+  112  nano history.txt
+  113  history
+  114  history > ~/test/history.txt
+  115  nano history.txt
+  116  git init
+  117  git add history.txt
+  118  git commit -m "History"
+  119  git remote add origin https://github.com/KolobovBoris1/History.git
+  120  git push -u origin main
+  121  git config
+  122  git remote -v
+  123  git remote add origin https://github.com/KolobovBoris1/History2.git
+  124  git init
+  125  git remote add origin https://github.com/KolobovBoris1/History2.git
+  126  git remote rm https://github.com/KolobovBoris1/History.git
+  127  git remote add origin https://github.com/KolobovBoris1/History2.git
+  128  git remote rm origin https://github.com/KolobovBoris1/History.git
+  129  git remote add origin https://github.com/KolobovBoris1/History2.git
+  130  git remote remove https://github.com/KolobovBoris1/History.git
+  131  git remote rm origin
+  132  git remote add origin https://github.com/KolobovBoris1/History2.git
+  133  git remote -v
+  134  git push -u origin main
+  135  git push
+  136  git push origin main
+  137  git push origin master:master
+  138  ssh-keygen -t rsa -b 4096 -C "kolobovboris1@gmail.com"
+  139  cat `/.ssh/SSHkey.pub
+  140  `
+  141  cd /test
+  142  cd ~/test
+  143  cat ~/.ssh/SSHkey.pub 
+  144  ssh-keygen -t rsa -b 4096 -C "kolobovboris1@gmail.com"
+  145  git clone git@github.com:KolobovBoris1/History2.git
+  146  git pull
+  147  git add history.txt
+  148  nano history.txt
+  149  cd History2
+  150  git add history.txt
+  151  git add history > history.txt
+  152  git add ~/test/history.txt
+  153  history > ~/test/History2/historygit.txt
